@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Parzival1308&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=AAAbdullo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <br/>
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parzival1308&style=for-the-badge&color=02569B&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Parzival1308?style=for-the-badge&color=02569B&labelColor=1a1a2e&label=FOLLOWERS" />
+  <img src="https://komarev.com/ghpvc/?username=AAAbdullo&style=for-the-badge&color=02569B&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/AAAbdullo?style=for-the-badge&color=02569B&labelColor=1a1a2e&label=FOLLOWERS" />
 </p>
 
 ---
@@ -68,14 +68,14 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parzival1308&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parzival1308&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AAAbdullo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAAbdullo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="36%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parzival1308&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAAbdullo&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 ---
@@ -83,7 +83,7 @@
 ### 🏆 GitHub Трофеи
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parzival1308&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AAAbdullo&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%" />
 </div>
 
 ---
